@@ -1,2 +1,2 @@
 # YoutubeVideoDownload
- Download de video/audio do youtube atravás do link
+ Download de video(com opções de resolução)/audio do youtube atravás do link
